@@ -6,11 +6,6 @@ MySQL 5.8
 Nginx 1.13
 
 ```
-mkdir mysql
-```
-##現在はこの状態
-
-```
 django
 ├── docker-compose.yml
 ├── mysql
@@ -24,7 +19,6 @@ django
     ├── Dockerfile
     └── requirements.txt
 ```
-
 ##プロジェクト開始
 
 ```
@@ -39,7 +33,7 @@ django
 ├── mysql
 ├── sql
 ├── nginx
-│   ├── conf
+│   ├── config
 │   │   └── config_nginx.conf
 │   └── uwsgi_params
 ├── python
@@ -66,7 +60,6 @@ DATABASES = {
         'PASSWORD': 'password',
         'HOST': 'db',
         'PORT': '3306',
-        'OPTIONS': {
     }
 }
 ```
