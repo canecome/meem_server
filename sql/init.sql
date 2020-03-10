@@ -1,3 +1,3 @@
-GRANT ALL PRIVILEGES ON test_todoList.* TO 'user'@'%';
+GRANT ALL PRIVILEGES ON test_database.* TO 'user'@'%';
 
 FLUSH PRIVILEGES;
