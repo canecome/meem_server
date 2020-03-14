@@ -3,7 +3,7 @@
 
 meem - API dashboards
 
-# Feature
+# Features
 
 API Xross Platform
 
@@ -86,9 +86,9 @@ docker-compose run python ./manage.py startapp [app name]
 
 # Author
 
-* canecome
-* canecome@picros.com
+* [@canecome](https://twitter.com/canecome)
+* URL:www.picros.com
  
 # License
 
-"meem" is Confidential.
+"meem" is under [MIT license](https://en.wikipedia.org/wiki/MIT_License).
