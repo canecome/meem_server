@@ -1,12 +1,7 @@
-スターターキット
 
-python 3.8
-Django 2.2.6
-MySQL 5.8
-Nginx 1.13
-# meem
+# NAME
 
-API dashboard wiggets
+meem - API dashboard
 
 # DEMO
  
