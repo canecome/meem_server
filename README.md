@@ -92,3 +92,7 @@ docker-compose run python ./manage.py startapp [app name]
 # License
 
 "meem" is under [MIT license](https://en.wikipedia.org/wiki/MIT_License).
+
+Enjoy making cute physics simulations!
+ 
+Thank you!
