@@ -1,7 +1,11 @@
 
 # NAME
 
-meem - API dashboard
+meem - API dashboards
+
+# Feature
+
+API Xross Platform
 
 # DEMO
  
@@ -9,7 +13,7 @@ comming soon
 
 # Requirement
  
-* Django==2.2.6
+* Django==2.2.10
 * uwsgi==2.0.17
 * mysqlclient==1.4.6
  
@@ -22,7 +26,7 @@ docker-compose up -d
 # Usage
 
 ```
-django
+meem_server
 ├── docker-compose.yml
 ├── mysql
 ├── sql
@@ -82,12 +86,9 @@ docker-compose run python ./manage.py startapp [app name]
 
 # Author
 
-* masahiro kaneko
-* picros.com
+* canecome
 * canecome@picros.com
  
 # License
-
-"meem" is under [MIT license](https://en.wikipedia.org/wiki/MIT_License).
 
 "meem" is Confidential.
